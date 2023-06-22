@@ -1,0 +1,28 @@
+PjBl - Fase 3 - Hardware e Comunicação
+
+ 
+
+Objetivo: Finalizar toda a estrutura de Hardware e Comunicação do projeto final. Não necessita de conexão com o Banco de Dados nem com o Flask neste momento. Mas necessita estar conectado integralmente no MQTT, com todas as estruturas de tópicos definidos.  
+
+Observações: Pode ser utilizado o simulador Wokwi para o desenvolvimento e validação da parte de hardware do projeto final.  
+
+ 
+
+Requisitos mínimos da Fase 3 do PjBL: 
+
+Todos os sensores e atuadores conectados a placa e funcionando; 
+Todos os tópicos bem definidos, com uma explicação detalhada da função de cada código; 
+ 
+
+O que deverá ser entregue: 
+
+O esquemático do Hardware, (Wokwi, Tinkercad) ou no equipamento real – entregar em formato de relatório, explicando quais sensores estão sendo utilizados e como estão sendo utilizados; 
+Entregar em formato de relatório o nome de todos os tópicos MQTT utilizados, e a função de cada tópico; 
+Entregar o código da ESP32 e o Código em Python realizando a comunicação/controle; 
+Realizar um vídeo de no máximo 5 minutos apresentando e explicando as entregas acima pedidas;  
+Pode ser enviado o arquivo de vídeo, ou pode ser em formato de link (Yotube, google Drive, OndeDrive); 
+ 
+
+Avaliação 
+
+A avaliação se dará pelos documentos solicitados entregue e pelo domínio da equipe ao apresentar os conteúdos no vídeo.  
